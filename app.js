@@ -7,7 +7,7 @@ app.use(express.json())
 
 app.use(cors())
 
-import postRoutes from './routes/posts.js'
+import postRoutes from './routes/post.js'
 
 import './db/db.js'
 
