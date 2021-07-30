@@ -1,5 +1,4 @@
 import express from 'express'
-import { deleteModel } from 'mongoose'
 
 const router = express.Router()
 
